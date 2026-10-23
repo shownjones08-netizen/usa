@@ -34,16 +34,16 @@ from pyrogram.errors import (
 # ================================================================
 # CONFIGURATION
 # ================================================================
-API_ID = 39052980
-API_HASH = "5b0b6f9aedd2113a4a591dbcde61be43"
-BOT_TOKEN = "8762779264:AAG0ehkB1kKiLP6mt-Dbc1XNdC08K69shnw"
+API_ID = 36841145
+API_HASH = "88a298654d3fbf4723948fbe0df7fbf2"
+BOT_TOKEN = "8946021148:AAEedAxGNwYBXVDb_bmHAZxhzvvS0KdC-8g"
 ADMIN_ID = 8984851474
-LOG_CHANNEL = "@zvxay_bot"
-UPI_ID = "itsanvirajput@okaxis"
-DEFAULT_2FA = "vanshhun"
-DEFAULT_NAME = "zvxay-Store"
-SUPPORT_USER = "@zvxvay"
-BOT_NAME = "💀 Zvxay Account Store"
+LOG_CHANNEL = "@usaotplogs"
+UPI_ID = "venkatesh1859@fam"
+DEFAULT_2FA = "1578"
+DEFAULT_NAME = "Usa-Otp"
+SUPPORT_USER = "@WhoIsShown"
+BOT_NAME = "💀 Shown Account Store"
 WELCOME_IMG = "https://i.ibb.co/vvY95VHj/IMG-20261003-063102.jpg"
 
 SESSIONS_DIR = "session"
@@ -59,7 +59,7 @@ logging.basicConfig(
     level=logging.INFO,
     format="%(asctime)s [%(levelname)s] %(name)s: %(message)s"
 )
-logger = logging.getLogger("ZvxayBot")
+logger = logging.getLogger("ShownBot")
 
 # ================================================================
 # IN-MEMORY STATE
